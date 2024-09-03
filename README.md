@@ -16,5 +16,5 @@ Note: "Appium" server should be started while using this application.
 </p>
 
 <p>
-  Execution video: <a href="https://drive.google.com/file/d/1nxOZFTrnNDDQPAH97CKADr8f7nOQCcUH/view?usp=drive_link">Here</a>  
+  Execution video: <a href="https://drive.google.com/file/d/1BYLv0KoP63bM-p9bvFY-ElWMSNwb7o17/view?usp=sharing">Here</a>  
 </p>
